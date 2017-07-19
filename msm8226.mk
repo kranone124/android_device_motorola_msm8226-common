@@ -86,7 +86,7 @@ PRODUCT_PACKAGES += \
     libxml2 \
     libshims_camera \
     camera.msm8226 \
-    Snap
+    Snapdragon
 
 # Display
 PRODUCT_PACKAGES += \
